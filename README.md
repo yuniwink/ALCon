@@ -8,4 +8,4 @@
 - 사용자 필요에 따라 선택 사용이 가능하도록 기본형과 고급형으로 나누어 개발
 
 
-<img src="https://github.com/user-attachments/assets/51af49c2-2b04-44ac-a923-394e2d8bfa07" width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/51af49c2-2b04-44ac-a923-394e2d8bfa07" width="1000" height="475"/>
