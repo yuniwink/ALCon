@@ -1,6 +1,8 @@
-# ALCon (Automatic Light Controller)
+# ALCon (Automatic Light Controller)_2018 한이음 프로젝트
 
 - project period : 2018.4.1 ~ 2018.11.27
+
+<br>
 
 ### 프로젝트 소개 밎 주요기능
 - 조명기기 이상의 역할을 수행할 수 있도록 도와주는 탈부착형 자동 조명 제어장치
@@ -9,3 +11,18 @@
 
 
 <img src="https://github.com/user-attachments/assets/51af49c2-2b04-44ac-a923-394e2d8bfa07" width="750" height="358"/>
+
+<br>
+<br>
+<br>
+
+### 작품의 특징 및 장점
+- 플러그에 단순 장착만으로 조명을 제어하는 기능을 탭재하여 사용자가 불편함을 느끼지 않도록 함
+- 고급형 모델의 경우 어플리케이션을 통해 조작이 가능하며 일정 거리 내에서 원격조작을 할 수 있음
+- 어플리케이션 내 타이머 및 예약기능, 취침기능, 모닝콜 기능 등을 활용할 수 있음
+- 이외에도 하드웨어 자체로 조도감지를 통한 자동 전원 on, off 기능과 물리적인 밝기 조정 기능 등이 있음
+
+<br>
+
+### 결과물
+[결과물 영상](https://youtu.be/CQbYO37CFTA)
